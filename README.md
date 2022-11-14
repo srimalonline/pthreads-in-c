@@ -1,4 +1,4 @@
-# Thread Programming Simulation with C
+# Thread Programming Simulation in C
 A console application for stimulating multi-threading programme in C language. 
 
 ## How to use
