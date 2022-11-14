@@ -1,2 +1,2 @@
 # pthreads-in-c
-A console for stimulating multi-threading programme in C language. 
+A console application for stimulating multi-threading programme in C language. 
