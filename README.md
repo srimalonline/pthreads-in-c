@@ -24,21 +24,6 @@ Then you just created an executable file named **a.out**
 ```bash
 time ./a.out
 ```
-## Demo
-
-Insert gif or link to demo
-
-
-## Screenshots
-
-![image](https://user-images.githubusercontent.com/67434227/201632387-a137fb13-5a36-44d3-bcb7-84f7a67cc1e4.png)
-![image](https://user-images.githubusercontent.com/67434227/201632523-5b2f0d6f-4a32-4ffc-9758-bfbeb562ae08.png)
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
 ## Tech Stack
 
 **Platform:** Linux/ Windows with WSL
