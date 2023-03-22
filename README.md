@@ -1,7 +1,7 @@
 # Thread Programming Simulation in C
 A console application for simulating multi-threading programme in C language. 
 
-## How to use
+## How to use this
 
 1. Clone the code for your pc (Linux environment is best)
 
